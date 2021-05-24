@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://www.youtube.com/watch?v=vcgC1-GBAT0">YouTube</a> |
-  <a href="https://twitter.com/lRRESPECTUEUX">Twitter</a> |
+  <a href="https://twitter.com/lRRESPECTUEUX">Twitter</a> 
 </p>
 
 <p align="center"><br>
